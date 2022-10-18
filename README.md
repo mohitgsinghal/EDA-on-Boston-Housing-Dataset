@@ -1,1 +1,3 @@
 # EDA-on-Boston-Housing-Dataset
+
+In this project we perform Exploratory Data Analysis on Boston Housing Data set. In this we are given different attribute related to each town's some properties like crime rate,average number of rooms etc,and we have to predict the median value of houses in a particular town using these attributes of different different towns. For this task we do some preprocessing task and do EDA tasks like making plotting distributins of features, checking null values, finding correlation, kurtosis among features performing 'Dimensionality reduction using PCA', 'Transforming features for getting normal distribution' and 'Discretizing of continuos variables using Decision Tree Regressor' 
